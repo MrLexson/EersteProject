@@ -1,2 +1,6 @@
 even testen of dit ook lokaal getoond wordt
+<<<<<<< HEAD
 wijziging lokaal
+=======
+wijziging remote
+>>>>>>> a4370fd98468026cc01c5849fc343ded10d4251f
